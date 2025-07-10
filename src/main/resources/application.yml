@@ -1,3 +1,7 @@
+constants:
+  file:
+    directory: D:\inha\spacework\upload
+
 spring:
   application:
     name: gallery
